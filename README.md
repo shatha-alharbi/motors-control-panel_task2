@@ -4,15 +4,25 @@ database_hardware.php is a PHP page that connects the hardware with the database
 the files in this repository  :
 
 1.README.md
+
 2.background-image.png
+
 3.database_hardware.php
+
 4.database_hardware_screenshot.PNG
+
 5.database_screenshot.PNG
+
 6.index.php
+
 7.index1.php
+
 8.logo.png
+
 9.panle1_screenshot.PNG
+
 10.panle2_screenshot.PNG
+
 11.README.md
 
 
